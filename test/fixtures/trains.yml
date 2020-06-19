@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  symbol: MyString
+  origin: MyString
+  destination: MyString
+  frequency: MyString
+  notes: MyString
+
+two:
+  symbol: MyString
+  origin: MyString
+  destination: MyString
+  frequency: MyString
+  notes: MyString
